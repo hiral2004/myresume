@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h3{
+  color: red;
+  font-family: Lucida Calligraphy;
+}
+h1{
+  font-family: Times New Roman;
+}
+h4{
+  font-family: Century;
+  font-style: italic;
+}
+.darkblue {
+  background-color: darkblue;
+  color: white;
+  border: black 1.5px solid;
+  padding:0px;
+  margin: 0px;
+}
+.mediumblue{
+  background-color: lightblue;
+  color: black;
+  border: black 1.5px dashed;
+  padding:0px;
+  margin-bottom: 3px;
+  margin-top: 3px;
+}
+.lightblue{
+  background-color: lightcyan;
+  color: black;
+  border: black 1.5px dotted;
+  padding:0px;
+  margin: 0px;
+}
